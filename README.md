@@ -1,4 +1,4 @@
 # CodeMentorAI
 
 
-Co-authored-by: sahej-dev sarao_sahej@outlook.com
+Co-authored-by: sahej-dev sahej.sarao07@gmail.com
